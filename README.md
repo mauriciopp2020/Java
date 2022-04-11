@@ -1,2 +1,2 @@
 # Java
-Conceito básico e herança
+Conceito básico de herança.
